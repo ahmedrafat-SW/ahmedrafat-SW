@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Rafat
 - 👀 I’m interested in Java, Spring, Javascript, Typescript, Angular
 - 🌱 I’m currently learning  Mongo DB, Cassandra DB
-- 💞️ I’m looking to collaborate on Larg Scale Applications
+- 💞️ I’m looking to collaborate on Open Source / Large Scale Applications
 - 📫 How to reach me  ahmed.rafat.abdelbar@gmail.com
 
 <!---
