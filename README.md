@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Rafat
+Hi my name is Ahmed Rafat.
 ===================================================================================================================================
+* I'm a Software Engineer
 *   🌍  I'm based in Cairo, Egypt
 *   ✉️  You can contact me at [ahmed.rafat.abdelbar@gmail.com](mailto:ahmed.rafat.abdelbar@gmail.com)
 *   🤝  I'm open to collaborating on Open Source Projects
